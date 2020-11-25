@@ -4,5 +4,5 @@ if $1 is physical
 then
   echo " $1 is overheating "
 else
-  echo " $1 is on safe level"
+  echo " $1 is virtiual"
 fi
