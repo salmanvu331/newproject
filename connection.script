@@ -1,8 +1,1 @@
-#!/bin/bash
-connection=$1
-if $1 is physical
-then
-  echo " $1 is overheating "
-else
-  echo " $1 is virtiual"
-fi
+salman is the man
